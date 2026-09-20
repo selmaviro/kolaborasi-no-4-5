@@ -1,6 +1,5 @@
-# [VERSI B] Program Manajemen Nilai Mahasiswa
-
+# PROGRAM UTAMA - EDITAN NASYWA
 def input_data():
-    nama = input("Masukkan Nama: ")
-    nilai = input("Masukkan Nilai: ")
+    nama = input("Nama Pengguna: ")
+    nilai = input("Nilai Pengguna: ")
     return {"nama": nama, "nilai": nilai}
