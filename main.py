@@ -1,5 +1,4 @@
-# [VERSI A] Program Sistem Informasi Akademik
-
+# PROGRAM UTAMA - EDITAN SELMA
 def input_data():
     nama = input("Masukkan Nama: ")
     nilai = input("Masukkan Nilai: ")
